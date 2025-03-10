@@ -1,0 +1,7 @@
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Prueba_Tecnica\Backend\Backend\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
